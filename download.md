@@ -17,6 +17,18 @@ via the <a href="https://github.com/darrenmothersele/cyril/issues">GitHub
 issue queue</a>.</p>
 
 <p class="lead">
+  <a href="https://github.com/darrenmothersele/cyril/releases">cyril-beta3.zip</a>
+</p>
+
+<ul>
+  <li><strong>Update 7th May 2014</strong></li>
+  <li>Added separate data folder for code and sprites.</li>
+  <li>Added img command for drawing sprites</li>
+</ul>
+
+<h3>older versions...</h3>
+
+<p class="lead">
   <a href="https://github.com/darrenmothersele/cyril/releases">cyril-beta2.zip</a>
 </p>
 
@@ -25,8 +37,6 @@ issue queue</a>.</p>
   <li>Built against new version of ofxEditor which fixes performance issues
     when a large text buffer is loaded into the editor.</li>
 </ul>
-
-<h3>older versions...</h3>
 
 <p class="lead">
   <a href="https://github.com/darrenmothersele/cyril/releases">cyril-beta1.zip</a>

@@ -7,6 +7,10 @@ title: Cyril - Live Coding Visuals
 The Cyril programming language is designed for fast prototyping of visualisations
 and live coding visuals.</p>
 
+<p>See some examples below, or checkout
+  <a href="http://blog.danhett.com/2014/01/snow-in-tokyo-go.html">these examples by Cyril user Dan Hett</a>
+</p>
+
 <div class="video-container">
 <iframe src="//player.vimeo.com/video/79622462?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="300" height="188" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
