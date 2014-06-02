@@ -3,7 +3,7 @@ layout: page
 title: Cyril - Getting Started
 ---
 
-### How Cyril works
+## Getting started with Cyril
 Cyril is a self-contained program that can run from any location. Once downloaded,
 Cyril is comprised of an application, and a 'data' folder containing code and assets. 
 
@@ -32,7 +32,7 @@ to the Cyril application, and then into 'code'. Each of these numbered files cor
 While Cyril is running you can edit these files as you would in the built-in editor - save the file and 
 Cyril will update on the fly.
 
-### Hello, world!
+## Hello, world!
 
 Here is a very simple example of a Cyril program. It just draws a box in the
 middle of the screen:
