@@ -3,7 +3,7 @@ layout: page
 title: Cyril Examples
 ---
 
-<p class="lead">Here are some example Cyril programs to get you started:</p>
+<p class="lead">Here are some example Cyril programs to get you started.</p>
 
 How not to draw a circle:
 
