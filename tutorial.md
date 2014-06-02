@@ -1,19 +1,39 @@
 ---
 layout: page
-title: Getting Started with Cyril Live Coding
+title: Cyril - Getting Started
 ---
 
-When you run Cyril it will start in windowed mode by default. To get into full
-screen press `COMMAND + f`.
+## Getting started with Cyril
+Cyril is a self-contained program that can run from any location. Once downloaded,
+Cyril is comprised of an application, and a 'data' folder containing code and assets. 
 
-The editor appears with an empty program. Enter your instructions and press
-`COMMAND + r` to recompile and run your program. After each edits you need to
-press `COMMAND + r` to see the results.
+When you run Cyril it will start in full-screen mode by default. To toggle between windowed
+and full-screen mode, press `COMMAND + f`. While in windowed mode you can drag and move the window
+to any size.
 
-Press `COMMAND + a` to hide the editor overlay.
+### Cyril workspaces
+Cyril contains nine workspaces to write code into, accessible by hitting `COMMAND + [1,2,3]`, 
+where the number is the page you want to switch to. If you're using an external editor, 
+the files 1.cy, 2.cy etc correspond to these workspaces. 
 
+### Editing Cyril programs
+There are two ways to work with Cyril - the application contains it's own in-built
+editor that's overlaid on top of the visuals, or you can hide this and use any
+text editor to work with the code as Cyril is running. The built-in editor is useful in
+instances where you may want people to see the code as you're writing it - similarly, the 
+ability to use an external editor is great when you want to keep your code and visuals separate.
 
-## Hello box
+The built-in editor appears with an empty program - just start typing. Enter your 
+instructions and press `COMMAND + r` to recompile and run your program. After each 
+edit you need to press `COMMAND + r` to see the results - congratulations, you're
+livecoding! Press `COMMAND + a` to toggle the editor overlay at any time.
+
+To use an external editor (any is fine - TextMate, Sublime etc), go into the data directory next 
+to the Cyril application, and then into 'code'. Each of these numbered files corresponds to a workspace. 
+While Cyril is running you can edit these files as you would in the built-in editor - save the file and 
+Cyril will update on the fly.
+
+## Hello, world!
 
 Here is a very simple example of a Cyril program. It just draws a box in the
 middle of the screen:
@@ -28,7 +48,7 @@ The above program is exactly the same as the following program:
 
     box 1, 1, 1
 
-In this example the options are explicity stated. This draws the same box,
+In this example the options are explicitly stated. This draws the same box,
 with dimensions 1x1x1. I.e. It has a width of 1, a height of 1 and a depth of
 1. You can vary the values to produce different size boxes. For example, to
 draw a taller box, you could run this program:

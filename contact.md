@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Cyril - Live Coding Visuals
+title: Cyril - Contact
 ---
 
 <p class="lead">
