@@ -7,8 +7,9 @@ title: Cyril - Getting Started
 Cyril is a self-contained program that can run from any location. Once downloaded,
 Cyril is comprised of an application, and a 'data' folder containing code and assets. 
 
-When you run Cyril it will start in full-screen mode by default. To switch windowed
-mode press `COMMAND + w`, and to go back to full-screen press `COMMAND + f`.
+When you run Cyril it will start in full-screen mode by default. To toggle between windowed
+and full-screen mode, press `COMMAND + f`. While in windowed mode you can drag and move the window
+to any size.
 
 ### Cyril workspaces
 Cyril contains nine workspaces to write code into, accessible by hitting `COMMAND + [1,2,3]`, 
