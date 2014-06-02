@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting Started with Cyril Live Coding
+title: Cyril - Getting Started
 ---
 
 When you run Cyril it will start in windowed mode by default. To get into full

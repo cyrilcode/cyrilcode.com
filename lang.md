@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cyril Live Coding
+title: Cyril - Language Reference
 ---
 
 <p class="lead">Here's a full list of Cyril instructions:

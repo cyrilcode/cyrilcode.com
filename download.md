@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Download Cyril
+title: Cyril - Download
 ---
 
 ## Beta

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cyril Examples
+title: Cyril - Examples
 ---
 
 <p class="lead">Here are some example Cyril programs to get you started.</p>

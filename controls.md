@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting Started with Cyril Live Coding
+title: Cyril - Controls
 ---
 
 
