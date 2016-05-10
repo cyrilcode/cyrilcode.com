@@ -1,5 +1,0 @@
-
-- Paint over animation mode doesn't really work
-need to make background work separately
-need to make editor work separately
-
